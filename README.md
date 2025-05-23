@@ -28,8 +28,8 @@ If the model is not performing well, experiment with different architectures, re
 Visualize the training/validation loss and accuracy over epochs to understand the training process. Visualize some misclassified examples to gain insights into potential improvements.
 
 # Program:
-NAME : RITHIKA N
-REG NO: 212223230172
+NAME : MOHAMED FAIZAL
+REG NO: 212223243002
 
 ``` python
 
